@@ -36,7 +36,7 @@ export const Application = () => {
         </div>
         <div className="form-control agree">
           <label htmlFor="agree">I agree to the terms and conditions</label>
-          <input type="checkbox" id="terms agree" />
+          <input type="checkbox" id="agree" />
         </div>
         <button disabled={false}>Submit</button>
       </form>
